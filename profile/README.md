@@ -12,6 +12,8 @@
 -->
 This is the official GitHub organization for retzam.ai 👽
 
-[Endpoint documentation](https://documenter.getpostman.com/view/7875061/2sAXjKYrTs)
-[Playground](https://retzam-ai.vercel.app/)
-[Tutorial blog](https://retzam.hashnode.dev/)
+Endpoint documentation [https://documenter.getpostman.com/view/7875061/2sAXjKYrTs](https://documenter.getpostman.com/view/7875061/2sAXjKYrTs)
+
+Playground [https://retzam-ai.vercel.app](https://retzam-ai.vercel.app/)
+
+Tutorial blog [https://retzam.hashnode.dev](https://retzam.hashnode.dev/)
