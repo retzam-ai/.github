@@ -11,3 +11,7 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 This is the official GitHub organization for retzam.ai 👽
+
+[Endpoint documentation](https://documenter.getpostman.com/view/7875061/2sAXjKYrTs)
+[Playground](https://retzam-ai.vercel.app/)
+[Tutorial blog](https://retzam.hashnode.dev/)
