@@ -11,6 +11,7 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 This is the official GitHub organization for retzam.ai 👽
+retzam.ai is a zero-to-one open-source AI learning platform.
 
 Endpoint documentation [https://documenter.getpostman.com/view/7875061/2sAXjKYrTs](https://documenter.getpostman.com/view/7875061/2sAXjKYrTs)
 
